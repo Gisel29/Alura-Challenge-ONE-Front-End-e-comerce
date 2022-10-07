@@ -1,0 +1,11 @@
+.starWars__titulo h2, .consola__titulo h2, .diversos__titulo h2 {
+    font-size: 32px;
+    font-weight: 600;
+
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 2rem 0 1rem 0;
+}
+

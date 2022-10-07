@@ -1,0 +1,31 @@
+.menu{
+    background: url(../Img/banner.png) center;
+    color: white;
+    display: flex;
+    flex-direction:column;
+    justify-content: flex-end;
+    min-height: 400px;
+    min-width: 100%;
+    padding-bottom: 25px;
+}
+
+.titulo{
+    font-size: 52px;
+    margin: 0;
+    margin-left: 10%;
+    text-shadow: 2px 2px 2px black;
+}
+
+.subtitulo{
+    font-size: 22px;
+    margin-left: 10%;
+    margin-top: 0.5rem;
+    text-shadow: 2px 2px 2px black;
+}
+
+.boton__ver{
+    height: 51px;
+    margin-left: 10%;
+    margin-top: 1rem;
+    width: 129px;
+}
